@@ -1,8 +1,1 @@
-create these directories at the root of your project: bash , c . js
-create thes empty files:
-cc_is_fun.c
-js/main.js
-js/index.js
-create a file bash/alx with these two lines inside: #!/bin/bash and echo "school"
-Add all these new files in git
-Commit our changes (message:"statin to code today, so cool") and push to the remote server
+
